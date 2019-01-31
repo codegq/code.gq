@@ -1,4 +1,4 @@
-## Welcome to www.code.gq
+## Welcome to [www.code.gq]
 
 You can use the [editor on GitHub](https://github.com/codegq/code.gq/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
